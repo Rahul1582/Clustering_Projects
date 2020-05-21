@@ -6,13 +6,15 @@ Image segmentation is the classification of an image into different groups. Many
 
 ## Screenshots(Output)
 
-Original Image-
-<img src ="img.jpg"  width=700 height=500>
+#### Original Image-
+
+<img src ="img.jpg"  width=800 height=500>
 <br>
 
 
-After applying clustering on the image-
-<img src ="test.PNG"  width=700 height=500>
+#### After applying clustering on the image-
+
+<img src ="test.PNG"  width=800 height=530>
 <br>
 
 This consists 8 photos starting from top left K=1 to K=8. 
