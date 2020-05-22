@@ -1,4 +1,4 @@
-# Mall-Customer-Segementation
+# Mall-Customer-Segmentation
 
 The goal is to segment the data using clustering approches and identify the features of different customer segments. Insights will be used to answer business questions about marketing strategies. 
 
