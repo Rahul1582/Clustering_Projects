@@ -6,7 +6,7 @@ For this we used Mini Batch K means Clustering Technique..
 
 ## Project link
 
-[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/tree/master/Document%20Segmentation/)
+[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Document%20Segmentation/Document%20Segmentation.ipynb)
 
 ## Document Clustering vs Topic Modelling
 

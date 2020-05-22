@@ -7,11 +7,11 @@ This Repository consists some projects on Applications of Clustering in real-wor
 
 Here are the different notebooks:
 
-[Mall Customer Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Customer%20Segmentation/Mall%20Customer%20Segmentation%20.ipynb):Segmented the data using Clustering approches and identified the features of different Customer Segments..
+[Mall Customer Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Customer%20Segmentation/Mall%20Customer%20Segmentation%20.ipynb): Segmented the data using Clustering approches and identified the features of different Customer Segments..
 
-[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/tree/master/Document%20Segmentation/):Clustered documents that helped us to  groups similar documents together..
+[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Document%20Segmentation/Document%20Segmentation.ipynb): Clustered documents that helped us to  groups similar documents together..
 
-[Image Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Image%20Segmentation/imgsegmentation.py):Classifying images into different Groups..
+[Image Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Image%20Segmentation/imgsegmentation.py): Classifying images into different Groups..
 
 
 
