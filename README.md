@@ -9,7 +9,7 @@ Here are the different notebooks:
 
 [Mall Customer Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Customer%20Segmentation/Mall%20Customer%20Segmentation%20.ipynb):Segmented the data using Clustering approches and identified the features of different Customer Segments..
 
-[Document Segementation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/tree/master/Document%20Segmentation/):Clustered documents that helped us to  groups similar documents together..
+[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/tree/master/Document%20Segmentation/):Clustered documents that helped us to  groups similar documents together..
 
 [Image Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Image%20Segmentation/imgsegmentation.py):Classifying images into different Groups..
 

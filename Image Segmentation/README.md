@@ -4,6 +4,10 @@ Image segmentation is an important step in image processing, and it seems everyw
 
 Image segmentation is the classification of an image into different groups. Many kinds of research have been done in the area of image segmentation using clustering. There are different methods and one of the most popular methods is K-Means clustering algorithm.
 
+## Project Link
+
+[Image Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/blob/master/Image%20Segmentation/imgsegmentation.py)
+
 ## Screenshots(Output)
 
 #### Original Image-

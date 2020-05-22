@@ -4,6 +4,10 @@ Clustering documents is an important task as it groups similar documents togethe
 
 For this we used Mini Batch K means Clustering Technique..
 
+## Project link
+
+[Document Segmentation](https://nbviewer.jupyter.org/github/Rahul1582/Clustering_Projects/tree/master/Document%20Segmentation/)
+
 ## Document Clustering vs Topic Modelling
 
 Topic Modeling yields topics present in each document, one can say that topic modeling generates a representation for documents in the topic space. 
